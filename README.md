@@ -1,1 +1,12 @@
-<p align="center"><a href="https://taufiqalif.github.io" target="_blank"><img src="https://github.com/taufiqalif/Lab8Web/blob/master/img/taufiq.png" width="400"></a></p>
+Nama            : Rafi Hanif Rabbani
+
+NIM             : 312010358
+
+Kelas           : TI.20.A.RPL-2
+
+UAS             : Pemrograman Visual 
+
+Dosen Pengampu  : Pak Agung Nugroho, S.Kom., M.Kom.
+
+Link Video
+https://youtu.be/IxPsRol3UoA 
